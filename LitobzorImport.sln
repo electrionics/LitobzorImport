@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LitobzorImport.App", "LitobzorImport\LitobzorImport.App.csproj", "{B9159ECF-42E0-4912-B637-D96DCA8CB4B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LitobzorImport.Domain", "LitobzorImport.Domain\LitobzorImport.Domain.csproj", "{D4AB728C-D820-42A7-9B90-F688F07444C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LitobzorImport.Logic", "LitobzorImport.Logic\LitobzorImport.Logic.csproj", "{22F7149F-1DA5-4EE8-9718-7289719E2AF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LitobzorImport.Logic.Contracts", "LitobzorImport.Contracts\LitobzorImport.Logic.Contracts.csproj", "{8168824D-5D93-4198-BBAE-9940DEA58872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LitobzorImport.DataAccess", "LitobzorImport.DataAccess\LitobzorImport.DataAccess.csproj", "{F2EBB956-D104-4349-85A3-5FA260E68293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LitobzorImport.DataAccess.Contracts", "LitobzorImport.DataAccess.Contracts\LitobzorImport.DataAccess.Contracts.csproj", "{D5ACF9D6-6F9E-464A-AEA8-2B2C21CBA926}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9159ECF-42E0-4912-B637-D96DCA8CB4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9159ECF-42E0-4912-B637-D96DCA8CB4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9159ECF-42E0-4912-B637-D96DCA8CB4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9159ECF-42E0-4912-B637-D96DCA8CB4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4AB728C-D820-42A7-9B90-F688F07444C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4AB728C-D820-42A7-9B90-F688F07444C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4AB728C-D820-42A7-9B90-F688F07444C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4AB728C-D820-42A7-9B90-F688F07444C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22F7149F-1DA5-4EE8-9718-7289719E2AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F7149F-1DA5-4EE8-9718-7289719E2AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F7149F-1DA5-4EE8-9718-7289719E2AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F7149F-1DA5-4EE8-9718-7289719E2AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8168824D-5D93-4198-BBAE-9940DEA58872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8168824D-5D93-4198-BBAE-9940DEA58872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8168824D-5D93-4198-BBAE-9940DEA58872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8168824D-5D93-4198-BBAE-9940DEA58872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2EBB956-D104-4349-85A3-5FA260E68293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2EBB956-D104-4349-85A3-5FA260E68293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2EBB956-D104-4349-85A3-5FA260E68293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2EBB956-D104-4349-85A3-5FA260E68293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5ACF9D6-6F9E-464A-AEA8-2B2C21CBA926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5ACF9D6-6F9E-464A-AEA8-2B2C21CBA926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5ACF9D6-6F9E-464A-AEA8-2B2C21CBA926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5ACF9D6-6F9E-464A-AEA8-2B2C21CBA926}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8477A5DB-D57C-4D3B-9163-AC505EF7B3E8}
+	EndGlobalSection
+EndGlobal
